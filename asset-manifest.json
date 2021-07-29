@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KaterynaMeleshenko/react-gh-pages/static/css/main.a965e1d0.chunk.css",
+    "main.js": "/KaterynaMeleshenko/react-gh-pages/static/js/main.265b0121.chunk.js",
+    "main.js.map": "/KaterynaMeleshenko/react-gh-pages/static/js/main.265b0121.chunk.js.map",
+    "runtime-main.js": "/KaterynaMeleshenko/react-gh-pages/static/js/runtime-main.7ba7ccf2.js",
+    "runtime-main.js.map": "/KaterynaMeleshenko/react-gh-pages/static/js/runtime-main.7ba7ccf2.js.map",
+    "static/js/2.9eb4ece5.chunk.js": "/KaterynaMeleshenko/react-gh-pages/static/js/2.9eb4ece5.chunk.js",
+    "static/js/2.9eb4ece5.chunk.js.map": "/KaterynaMeleshenko/react-gh-pages/static/js/2.9eb4ece5.chunk.js.map",
+    "static/js/3.cd22fb2f.chunk.js": "/KaterynaMeleshenko/react-gh-pages/static/js/3.cd22fb2f.chunk.js",
+    "static/js/3.cd22fb2f.chunk.js.map": "/KaterynaMeleshenko/react-gh-pages/static/js/3.cd22fb2f.chunk.js.map",
+    "index.html": "/KaterynaMeleshenko/react-gh-pages/index.html",
+    "static/css/main.a965e1d0.chunk.css.map": "/KaterynaMeleshenko/react-gh-pages/static/css/main.a965e1d0.chunk.css.map",
+    "static/js/2.9eb4ece5.chunk.js.LICENSE.txt": "/KaterynaMeleshenko/react-gh-pages/static/js/2.9eb4ece5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ba7ccf2.js",
+    "static/js/2.9eb4ece5.chunk.js",
+    "static/css/main.a965e1d0.chunk.css",
+    "static/js/main.265b0121.chunk.js"
+  ]
+}
